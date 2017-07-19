@@ -1,0 +1,23 @@
+{
+  "name": "filelist-md-webpack-plugin",
+  "version": "0.0.1",
+  "description": "webpack assets list in markdown file",
+  "main": "filelist-md-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonlx/filelist-md-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "assets"
+  ],
+  "author": "sharonli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharonlx/filelist-md-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/sharonlx/filelist-md-webpack-plugin#readme"
+}
